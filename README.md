@@ -10,3 +10,5 @@ https://appsecwiki.com/#/README
 http://www.pentest-standard.org/index.php/Main_Page
 
 https://trailofbits.github.io/ctf/
+
+https://reverseengineering.stackexchange.com
